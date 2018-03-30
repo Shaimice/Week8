@@ -58,5 +58,4 @@ Vulnerability #2: Cross-Site Forgery Request (CSRF)
 - GIT Walkthrough: ![](https://github.com/Shaimice/Week8/blob/master/SQLMAP.gif)
 
 ## Notes
-
 I was attempting to complete Bonus Objective 2 (Optional) and while trying a few different XSS alternatives to solve the challenge.  Unfortunately, when I tried the redirect to another website using XSS, I am not able to get the server to escape out of executing the previous XSS scripts that were saved.  I was not able to get past the website redirect despite there being additional XSS scripts that I created in an attempt to capture cookies.
